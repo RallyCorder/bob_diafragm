@@ -4,3 +4,4 @@ h1{text-align: center; color: crimson; border: crimson; border: 5px solid ;margi
 .cds_text{ width:fit-content; margin: auto; text-align:center;}
 .box{width:12%; margin-left: 10%; margin-right: 10%; color: crimson; border: crimson 5px solid; display: inline-table;}
 .endeth{text-align: center; color: crimson; border: crimson; border: 5px solid ;margin: 2%; color:crimson; scale: 50%;}
+.sidebar{float: right; block-size: 150px;}
