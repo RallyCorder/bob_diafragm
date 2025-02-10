@@ -2,6 +2,8 @@ h1{
 	text-align : center;
 	color:DarkRed;
 	font-size:40px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
 }
 body{
 	background-color:Black;
