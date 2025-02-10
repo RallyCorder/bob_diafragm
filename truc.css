@@ -1,0 +1,32 @@
+h1{
+	text-align : center;
+	color:DarkRed;
+	font-size:40px;
+}
+body{
+	background-color:Black;
+}
+
+#quatro{
+	width:30%;
+	display:block;
+	margin:auto;
+}
+
+#majora{
+	width:20%;
+	display:block;
+	margin:auto;
+}
+
+#boite{
+	text-align:center;
+	border-style : solid;
+	border-width:50px;
+	border-color:DarkRed;
+}
+
+#txt{
+	color:DarkRed;
+	font-size:20px;
+}
