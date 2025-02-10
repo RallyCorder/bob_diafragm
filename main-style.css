@@ -1,7 +1,8 @@
 #big-title{display:block ;margin-left: auto; margin-right: auto; size: 100px;}
-#john{text-align: center; color: crimson; border: crimson; border: 5px solid ;margin: 2%; color:crimson; scale: 50%;}
+form{text-align: center; color: darkred; border: darkred; border: 5px solid ;margin: 2%; color:darkred; scale: 70%; font-size: 30px; font-family: 'Courier New', Courier, monospace; font-weight: bold;}
 .cds{display:block ;margin-left: auto; margin-right: auto; size: 100px; }
-.cds_text{ width:fit-content; margin: auto; text-align:center;}
-.box{width:12%; margin-left: 10%; margin-right: 10%; color: crimson; border: crimson 5px solid; display: inline-table;}
-.endeth{text-align: center; color: crimson; border: crimson; border: 5px solid ;margin: 2%; color:crimson; scale: 50%;}
-.sidebar{float: right; block-size: 150px;}
+.cds_text{ width:fit-content; margin: auto; text-align:center; font-family: 'Courier New', Courier, monospace; font-weight: bold;}
+.box{width:20%; margin-left: 2.5%; margin-right: 2.5%; color: darkred; border: darkred 5px solid; display: inline-table;}
+.endeth{text-align: center; color: darkred; border: darkred; border: 5px solid ;margin: 2%; color:darkred; scale: 50%;}
+#sidebarright{float: right; block-size: 150px; height: 2000px; width: 200px;}
+#sidebarleft{float: left; block-size: 150px; height: 2000px; width: 200px;}
