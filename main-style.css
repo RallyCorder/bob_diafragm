@@ -4,5 +4,5 @@ form{text-align: center; color: darkred; border: darkred; border: 5px solid ;mar
 .cds_text{ width:fit-content; margin: auto; text-align:center; font-family: 'Courier New', Courier, monospace; font-weight: bold;}
 .box{width:20%; margin-left: 2.5%; margin-right: 2.5%; color: darkred; border: darkred 5px solid; display: inline-table;}
 .endeth{text-align: center; color: darkred; border: darkred; border: 5px solid ;margin: 2%; color:darkred; scale: 50%;}
-#sidebarright{float: right; block-size: 150px; height: 2000px; width: 200px;}
-#sidebarleft{float: left; block-size: 150px; height: 2000px; width: 200px;}
+#sidebarright{float: right; block-size: 150px; height: 1500px; width: 200px;}
+#sidebarleft{float: left; block-size: 150px; height: 1500px; width: 200px;}
