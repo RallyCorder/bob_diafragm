@@ -30,3 +30,5 @@ body{
 	color:DarkRed;
 	font-size:20px;
 }
+#sidebarright{float: right; block-size: 150px; height: 1500px; width: 200px;}
+#sidebarleft{float: left; block-size: 150px; height: 1500px; width: 200px;}
