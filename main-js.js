@@ -7,3 +7,6 @@ function clickHG2TG()
 function clickMM()
     {open("majora.html")
     close("main-page.html")}
+function clickBS()
+    {open("berserk.html")
+    close("main-page.html")}
