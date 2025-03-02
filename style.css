@@ -4,6 +4,7 @@ h1{
 	font-size:40px;
 	font-family: 'Courier New', Courier, monospace;
 	font-weight: bold;
+	text-decoration: underline;
 }
 body{
 	background-color:Black;
@@ -32,7 +33,10 @@ body{
 #txt{
 	color:DarkRed;
 	font-size:20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bolder;
 }
 #big-title{display:block ;margin-left: auto; margin-right: auto;}
 #sidebarright{float: right; block-size: 150px; height: 1500px; width: 200px;}
 #sidebarleft{float: left; block-size: 150px; height: 1500px; width: 200px;}
+.endeth{text-align: center; color: darkred; border: darkred; border: 5px solid ;margin: 2%; color:darkred; scale: 60%; font-family: 'Courier New', Courier, monospace; font-weight: bolder;}
