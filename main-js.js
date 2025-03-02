@@ -1,2 +1,2 @@
 function clickHK()
-{open("hollow-knight.html")}
+    {open("hollow-knight.html")}
