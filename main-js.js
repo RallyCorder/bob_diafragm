@@ -10,3 +10,6 @@ function clickMM()
 function clickBS()
     {open("berserk.html")
     close("main-page.html")}
+function clickSW()
+    {open("star-wars.html")
+    close("main-page.html")}
