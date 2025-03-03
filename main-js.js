@@ -13,3 +13,6 @@ function clickBS()
 function clickSW()
     {open("star-wars.html")
     close("main-page.html")}
+function click404()
+    {open("404.html")
+    close("main-page.html")}
